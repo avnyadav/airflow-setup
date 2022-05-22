@@ -1,4 +1,4 @@
-Officaial Instruction follow the instruction
+
 
 https://airflow.apache.org/docs/apache-airflow/stable/start/docker.html#setting-the-right-airflow-user
 
@@ -15,7 +15,7 @@ docker-compose up
 ```
 
 
-Flower urrl:
+Flower url:
 ```
 http://localhost:5555/
 ```
